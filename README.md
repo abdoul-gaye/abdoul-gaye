@@ -1,4 +1,4 @@
-- 👋 Hi, It Abdoul
+- 👋 Hi, It's Abdoul
 - 👀 I’m interested in **Business Intelligence,Digital Marketing Analytics, and AI-driven solutions.**  
 - 🌱 I’m currently learning **Microsoft Fabric, Azure AI and social media marketing strategies.**  
 - 💞️ I’m looking to collaborate on **BI projects, data-driven marketing analytics solutions, and community-building initiatives for data professionals.**  
